@@ -4,6 +4,7 @@
     <string name="app_name">AndroidTutorial</string>
     <string name="action_settings">Settings</string>
     
-    <string name="hint_bind_et_example">Enter a text</string>
+    <string name="button_next">Next</string>
+    <string name="toast_text">Clicked button</string>
 
 </resources>

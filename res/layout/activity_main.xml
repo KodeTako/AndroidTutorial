@@ -9,15 +9,10 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.kodetako.androidtutorial.MainActivity" >
     
-    <EditText 
-        android:id="@+id/bind_et_example"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="@string/hint_bind_et_example"/>
-
-    <TextView
-        android:id="@+id/bind_tv_example"
+    <Button 
+        android:id="@+id/nextButton"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:text="@string/button_next"/>
 
 </LinearLayout>
