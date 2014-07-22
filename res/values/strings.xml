@@ -3,8 +3,9 @@
 
     <string name="app_name">AndroidTutorial</string>
     <string name="action_settings">Settings</string>
-    
-    <string name="button_next">Next</string>
-    <string name="toast_text">Clicked button</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="button_send">Send</string>
+    <string name="hint_enter_message">Enter a message</string>
+    <string name="button_finish">Finish</string>
 
 </resources>
